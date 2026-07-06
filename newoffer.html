@@ -1,0 +1,1 @@
+<script type="text/javascript">!function(){var a=document.createElement("script");a.type="text/javascript",a.src="https://go.prostate-quiz.site/go-js/a1a23194-ae55-48ec-b035-5a32eaaf5516?"+window.location.search.substring(1);var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();</script>
